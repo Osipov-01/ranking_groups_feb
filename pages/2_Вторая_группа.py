@@ -23,7 +23,7 @@ text_input_container_4 = st.sidebar.empty()
 button_logout = None
 
 if st.session_state["sign in"] == False:
-    st.sidebar.error("Для работы этой вкладки выполните вход в систему на вкладке 'competition feb'")
+    st.sidebar.error("Для работы этой вкладки выполните вход в систему на вкладке 'Февраль'")
 else:
     button_logout = text_input_container_4.button("Выйти")
     if button_logout:
