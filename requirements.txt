@@ -1,0 +1,9 @@
+altair
+pandas
+streamlit
+openpyxl
+Pillow
+requests
+scikit-learn
+ipython
+plotly
