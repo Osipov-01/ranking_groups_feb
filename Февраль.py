@@ -11,7 +11,7 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-st.image("https://teatrium.ru/upload/medialibrary/af0/2t0u03cf8i13p4o0oven20z5gasagnjl/vtb.jpg",
+st.sidebar.image("https://teatrium.ru/upload/medialibrary/af0/2t0u03cf8i13p4o0oven20z5gasagnjl/vtb.jpg",
          use_container_width=True)
 st.title('Внутригрупповый конкурс по продажам')
 
